@@ -54,7 +54,7 @@ Currently open to Data Science, Machine Learning Engineer, and Analytics roles �
 
 ## 🎯 Education & Certifications
 
-* **Data Science Certification** – Moringa School (Focus: Python, SQL, Tableau, EDA)
+* **Data Science Certification** – Moringa School (Focus: Python, SQL, Tableau, EDA, Machine Learning, Deep Learning)
 * **Bachelor of Arts in Economics (Mathematics Minor)** – Kenyatta University
 * **Certified Public Accountant (CPA) Part II** – (Ongoing)
 
