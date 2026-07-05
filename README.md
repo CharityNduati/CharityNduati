@@ -1,142 +1,73 @@
-﻿# \# Hi, I'm Charity Nduati 👋
+# Hi, I'm Charity Nduati 👋
 
-# 
+**Data Analyst & Aspiring Data Scientist**  
 
-# \*\*Data Analyst \& Aspiring Data Scientist\*\*  
+📍 Nairobi, Kenya · 📧 charitynduati17@gmail.com · 🌍 Remote-friendly · **Open to Data Analytics & Science Opportunities**
 
-# 📍 Nairobi, Kenya · 📧 charitynduati17@gmail.com · 🌍 Remote-friendly · \*\*Open to Data Analytics \& Science Opportunities\*\*
+---
 
-# 
+## 🚀 About Me
 
-# \---
+I translate complex, high-volume operational logs and transaction data into clear, actionable business insights.
 
-# 
+With a strong foundational background in **Economics and Mathematics**, I bridge the gap between rigorous quantitative analysis and real-world business operations. Whether it's optimization, exploratory data analysis, or building operational dashboards, I focus on delivering measurable impact.
 
-# \## 🚀 About Me
+Currently looking for **Remote Data Analyst** roles and collaborative data science projects.
 
-# 
+---
 
-# I translate complex, high-volume operational logs and transaction data into clear, actionable business insights. 
+## 🏆 Impact & Highlights
 
-# 
+- **Workflow Optimization:** Co-designed structured operational data workflows for high-volume portfolios where none previously existed.
+- **Data Auditing & Integrity:** Supervised active banking databases, auditing daily logs to eliminate errors and prevent system leakages.
+- **Interactive Dashboards:** Engineered end-to-end data frameworks at Moringa School, designing Tableau dashboards to track resource allocations and operational metrics.
+- **Trend Analysis:** Analyzed log data and transaction records to identify patterns, leading to optimized team resource allocation and higher efficiency.
+- **Cross-Functional Reporting:** Maintained comprehensive Excel and Power Query models to translate raw portfolio metrics into clear summaries for management and corporate clients.
 
-# With a strong foundational background in \*\*Economics and Mathematics\*\*, I bridge the gap between rigorous quantitative analysis and real-world business operations. Whether it's optimization of workflows, building interactive dashboards, or auditing active databases to stop system leakages, I focus on turning raw data into strategic value. 
+---
 
-# 
+## 🛠️ Tech Stack
 
-# Currently looking for \*\*Remote Data Analyst\*\* roles and collaborative data science projects.
+**Languages & Databases**  
 
-# 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square&logo=sqlite&logoColor=white)
 
-# \---
+**Analytics & Visualization**  
 
-# 
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-# \## 🏆 Impact \& Highlights
+---
 
-# 
+## 📂 Featured Technical Projects
 
-# \- \*\*Workflow Optimization:\*\* Co-designed structured operational data workflows for high-volume portfolios where none previously existed.
+| Project | Description | Stack |
+|---|---|---|
+| [**Analytical Data Frameworks**](https://github.com/CharityNduati/analytical-frameworks) | Built custom SQL scripts to extract, clean, and filter raw dataset records alongside interactive reporting. | SQL, Python |
+| [**Portfolio Trend Analyzer**](https://github.com/CharityNduati/portfolio-analysis) | Developed comprehensive data models to track high-volume account portfolios and identify transaction trends. | Python, SQL, Tableau |
+| [**Transaction Audit & Dashboard Pipeline**](https://github.com/CharityNduati/transaction-audit) | Designed a daily transaction monitoring workflow to format raw banking metrics into live dashboards. | SQL, Tableau |
 
-# \- \*\*Data Auditing \& Integrity:\*\* Supervised active banking databases, auditing daily logs to eliminate errors and prevent system leakages.
+---
 
-# \- \*\*Interactive Dashboards:\*\* Engineered end-to-end data frameworks at Moringa School, designing Tableau dashboards to track resource allocations and operational metrics.
+## 🎯 Education & Certifications
 
-# \- \*\*Trend Analysis:\*\* Analyzed log data and transaction records to identify patterns, leading to optimized team resource allocation and higher efficiency.
+* **Data Science Certification** – Moringa School (Focus: Python, SQL, Tableau, EDA)
+* **Bachelor of Arts in Economics (Mathematics Minor)** – Kenyatta University
+* **Certified Public Accountant (CPA) Part II** – (Ongoing)
 
-# \- \*\*Cross-Functional Reporting:\*\* Maintained comprehensive Excel and Power Query models to translate raw portfolio metrics into clear summaries for management and corporate clients.
+---
 
-# 
+## 📈 GitHub Stats
 
-# \---
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharityNduati&show_icons=true&theme=github_dark)](https://github.com/CharityNduati)
 
-# 
+---
 
-# \## 🛠️ Tech Stack
+## 🤝 Let's Connect
 
-# 
+If you're looking for an analytical, fast-learning data professional who can clean your data pipelines and build dashboards that drive decisions—let's chat!
 
-# \*\*Languages \& Databases\*\*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/charity-nduati) [![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](mailto:charitynduati17@gmail.com)
 
-# !\[Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white) !\[SQL](https://img.shields.io/badge/SQL-CC292B?style=flat-square\&logo=sqlite\&logoColor=white) !\[MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white) !\[PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+---
 
-# 
-
-# \*\*Analytics \& Visualization\*\*  
-
-# !\[Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square\&logo=tableau\&logoColor=white) !\[Excel](https://img.shields.io/badge/Excel-217346?style=flat-square\&logo=microsoftexcel\&logoColor=white) !\[Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square\&logo=pandas\&logoColor=white) !\[NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square\&logo=numpy\&logoColor=white)
-
-# 
-
-# \---
-
-# 
-
-# \## 📂 Featured Technical Projects
-
-# 
-
-# | Project | Description | Stack |
-
-# |---|---|---|
-
-# | \[\*\*Analytical Data Frameworks\*\*](https://github.com/CharityNduati/analytical-frameworks) | Built custom SQL scripts to extract, clean, and filter raw dataset records alongside interactive Tableau dashboards for stakeholder reporting. | SQL · Tableau · Data Modeling |
-
-# | \[\*\*Portfolio Trend Analyzer\*\*](https://github.com/CharityNduati/portfolio-analysis) | Developed comprehensive data models to track high-volume account portfolios, identify transaction trends, and optimize resource allocation. | Advanced Excel · Power Query · Trend Analysis |
-
-# | \[\*\*Transaction Audit \& Dashboard Pipeline\*\*](https://github.com/CharityNduati/transaction-audit) | Designed a daily transaction monitoring workflow to format raw banking metrics into live branch dashboards, focusing on error elimination. | Python · SQL · Database Auditing |
-
-# 
-
-# \---
-
-# 
-
-# \## 🎯 Education \& Certifications
-
-# 
-
-# \*   \*\*Data Science Certification\*\* – Moringa School \*(Focus: Python, SQL, Tableau, EDA)\*
-
-# \*   \*\*Bachelor of Arts in Economics (Mathematics Minor)\*\* – Kenyatta University
-
-# \*   \*\*Certified Public Accountant (CPA) Part II\*\* – \*(Ongoing)\*
-
-# 
-
-# \---
-
-
-
-# \## 📈 GitHub Stats
-
-# 
-
-\[!\[My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/CharityNduati?cardType=octocat\&theme=github-dark\&fontFamily=\&preferLogin=false)](https://git.io/awesome-stats-card)
-
-
-
-# \---
-
-# 
-
-# \## 🤝 Let's Connect
-
-# 
-
-# If you're looking for an analytical, fast-learning data professional who can clean your data pipelines and build dashboards that drive decisions—let's chat!
-
-# 
-
-# \[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)]([https://www.linkedin.com/in/your-linkedin-profile/](https://www.linkedin.com/in/charity-nduati-189674221/)
-
-# \[!\[Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge\&logo=gmail)](mailto:charitynduati17@gmail.com)
-
-# 
-
-# \---
-
-# 
-
-# > \*"Turning raw data into clear, actionable business strategies."\*
-
+> "Turning raw data into clear, actionable business strategies."
