@@ -58,7 +58,11 @@ Currently looking for **Remote Data Analyst** roles and collaborative data scien
 
 ## 📈 GitHub Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharityNduati&show_icons=true&theme=github_dark)](https://github.com/CharityNduati)
+<p align="center">
+  <a href="https://github.com/CharityNduati">
+    <img src="https://github-readme-stats.vercel.app/api?username=CharityNduati&show_icons=true&theme=github_dark&locale=en" alt="Charity's GitHub stats" />
+  </a>
+</p>
 
 ---
 
