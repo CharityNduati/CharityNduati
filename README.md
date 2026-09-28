@@ -91,7 +91,7 @@ Programming: Python, SQL, R
 
 If you're building ML products or need a data scientist who can take models to production, let's chat — I love collaborating on practical ML initiatives that deliver measurable outcomes.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/charity-nduati](https://www.linkedin.com/in/charity-nduati-189674221/)) [![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](mailto:charitynduati17@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/charity-nduati-189674221/]) [![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](mailto:charitynduati17@gmail.com)
 
 ---
 
