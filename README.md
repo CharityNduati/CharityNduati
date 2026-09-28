@@ -56,21 +56,21 @@ I am particularly interested in opportunities in Data Analytics, Data Science, B
 
 ## 🎯 Education & Certifications
 
- -**MSc Data Science —** University of East London (Currently pursuing)
- -**BA Economics and Mathematics —** Kenyatta University
- -**Data Science Professional Certificate —** Moringa School
- -**DecodeLabs Data Science & Analytics Internship —** 2026
+ - **MSc Data Science —** University of East London (Currently pursuing)
+ - **BA Economics and Mathematics —** Kenyatta University
+ - **Data Science Professional Certificate —** Moringa School
+ - **DecodeLabs Data Science & Analytics Internship —** 2026
 ---
 
 ## 🏆 Skills & Highlights
--**Data Analysis:** Data cleaning, EDA, statistical analysis, feature engineering
+- **Data Analysis:** Data cleaning, EDA, statistical analysis, feature engineering
 Programming: Python, SQL, R
--**Machine Learning:** Scikit-learn, XGBoost, Random Forest, Logistic Regression, clustering
--**Deep Learning:** TensorFlow, PyTorch
--**NLP:** Text preprocessing, tokenization, POS tagging, lemmatization, TF-IDF, sentiment analysis
--**Visualization:** Tableau, Power BI, Matplotlib, Excel
--**Data Management:** Relational databases, SQL querying, data quality and validation
--**Tools:** Git, GitHub, VS Code, Jupyter Notebook, Streamlit
+- **Machine Learning:** Scikit-learn, XGBoost, Random Forest, Logistic Regression, clustering
+- **Deep Learning:** TensorFlow, PyTorch
+- **NLP:** Text preprocessing, tokenization, POS tagging, lemmatization, TF-IDF, sentiment analysis
+- **Visualization:** Tableau, Power BI, Matplotlib, Excel
+- **Data Management:** Relational databases, SQL querying, data quality and validation
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Streamlit
 
 ## 📈 GitHub Stats
 
