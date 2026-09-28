@@ -56,10 +56,10 @@ I am particularly interested in opportunities in Data Analytics, Data Science, B
 
 ## 🎯 Education & Certifications
 
-.MSc Data Science — University of East London (Currently pursuing)
-.BA Economics and Mathematics — Kenyatta University
-.Data Science Professional Certificate — Moringa School
-.DecodeLabs Data Science & Analytics Internship — 2026
+ MSc Data Science — University of East London (Currently pursuing)
+ BA Economics and Mathematics — Kenyatta University
+ Data Science Professional Certificate — Moringa School
+ DecodeLabs Data Science & Analytics Internship — 2026
 ---
 
 ## 🏆 Skills & Highlights
