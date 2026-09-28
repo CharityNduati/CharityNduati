@@ -72,6 +72,20 @@ Programming: Python, SQL, R
 - **Data Management:** Relational databases, SQL querying, data quality and validation
 - **Tools:** Git, GitHub, VS Code, Jupyter Notebook, Streamlit
 
+## 🎯 Career Interests
+
+I am currently interested in opportunities involving:
+
+- **Data Analysis**
+- **Data Science**
+- **Business Intelligence**
+- **Risk Analytics**
+- **Machine Learning**
+- **Research & Analytics**
+- **Predictive Analytics**
+
+I am especially interested in roles where I can combine my Economics and Mathematics background with data science and practical business problem-solving.
+
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -91,7 +105,15 @@ Programming: Python, SQL, R
 
 If you're building ML products or need a data scientist who can take models to production, let's chat — I love collaborating on practical ML initiatives that deliver measurable outcomes.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/charity-nduati-189674221/]) [![Email](https://img.shields.io/badge/Email-Contact%20Me-orange?style=for-the-badge&logo=gmail)](mailto:charitynduati17@gmail.com)
+🤝 Let's Connect
+
+I enjoy learning, building practical projects, and solving real-world problems with data.
+
+If you're working on interesting data, analytics, or machine learning projects, feel free to connect.
+
+🔗 LinkedIn: [Charity Nduati](https://www.linkedin.com/in/charity-nduati-189674221/)
+
+📧 Email: charitynduati17@gmail.com
 
 ---
 
