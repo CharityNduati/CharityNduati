@@ -8,13 +8,15 @@
 
 ## 🚀 About Me
 
-I build end-to-end data products that turn messy operational and transaction data into reliable insights and predictive models. I work across the full ML lifecycle: data cleaning & feature engineering, model development (classical ML & deep learning), evaluation, and deployment to production.
+I am a Data Science Master's student at the University of East London (UEL) with a background in Economics and Mathematics and hands-on training in data science and analytics.
 
-With a background in **Economics and Mathematics**, I combine rigorous quantitative thinking with practical engineering to deliver models and dashboards that drive business outcomes.
+I enjoy working with data to uncover patterns, build predictive models, and turn complex datasets into useful business insights.
 
-Currently open to Data Science, Machine Learning Engineer, and Analytics roles — especially remote/contract opportunities.
+My experience includes data cleaning, exploratory data analysis, SQL, Python, statistical analysis, data visualization, machine learning, and NLP. I have worked on projects involving customer segmentation, predictive modeling, fraud detection, portfolio analysis, and sentiment analysis.
 
----
+I am currently pursuing my MSc in Data Science at the University of East London while building practical experience through data science projects and internships.
+
+I am particularly interested in opportunities in Data Analytics, Data Science, Business Intelligence, Risk Analytics, and Machine Learning.
 
 ## 🏆 Impact & Highlights
 
@@ -54,11 +56,21 @@ Currently open to Data Science, Machine Learning Engineer, and Analytics roles �
 
 ## 🎯 Education & Certifications
 
-* **Data Science Certification** – Moringa School (Focus: Python, SQL, Tableau, EDA, Machine Learning, Deep Learning)
-* **Bachelor of Arts in Economics (Mathematics Minor)** – Kenyatta University
-* **Certified Public Accountant (CPA) Part II** – (Ongoing)
-
+MSc Data Science — University of East London (Currently pursuing)
+BA Economics and Mathematics — Kenyatta University
+Data Science Professional Certificate — Moringa School
+DecodeLabs Data Science & Analytics Internship — 2026
 ---
+
+## 🏆 Skills & Highlights
+Data Analysis: Data cleaning, EDA, statistical analysis, feature engineering
+Programming: Python, SQL, R
+Machine Learning: Scikit-learn, XGBoost, Random Forest, Logistic Regression, clustering
+Deep Learning: TensorFlow, PyTorch
+NLP: Text preprocessing, tokenization, POS tagging, lemmatization, TF-IDF, sentiment analysis
+Visualization: Tableau, Power BI, Matplotlib, Excel
+Data Management: Relational databases, SQL querying, data quality and validation
+Tools: Git, GitHub, VS Code, Jupyter Notebook, Streamlit
 
 ## 📈 GitHub Stats
 
